@@ -30,7 +30,7 @@ I have 35+ years of IT experience, leading technology strategy, innovation, and 
 
 📫 Connect with Me
 
-•	💼 LinkedIn
+•	💼 [LinkedIn](https://www.linkedin.com/in/dr-stephane-stef-savanah-2755306/)
 
 •	📝 Personal Blog (Coming Soon)
 
