@@ -16,7 +16,7 @@ I have 35+ years of IT experience, leading technology strategy, innovation, and 
 
 📂 Pinned Repositories (Work in Progress)
 
-•	🏗 Bonded – AI-powered decentralized storage on ICP.
+•	🏗 Bonded – "Relationship Passport" - AI and Blockchain powered Proof-of-Relationship for immigrant visa applications and more.
 
 •	📜 Tech Strategy Notes – Insights on scaling AI and blockchain projects.
 
@@ -38,7 +38,7 @@ I have 35+ years of IT experience, leading technology strategy, innovation, and 
 
 📜 Patents:
 
-•	[WIPO](https://patentscope.wipo.int/search/en/result.jsf?_vid=P22-M7Y82N-87053)
+•	[WIPO](https://patentscope.wipo.int/search/en/result.jsf?_vid=P10-MABUBB-21386)
 
 •	[Google patents](https://patents.google.com/?inventor=stephane+savanah&oq=stephane+savanah)
 
