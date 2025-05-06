@@ -38,8 +38,8 @@ I have 35+ years of IT experience, leading technology strategy, innovation, and 
 
 📜 Patents:
 
-•	[WIPO](https://patentscope.wipo.int/search/en/result.jsf?_vid=P10-MABUBB-21386)
+•	[WIPO](https://patentscope.wipo.int/search/en/result.jsf?_vid=P10-MABUBB-21386) All patent applications
 
-•	[Google patents](https://patents.google.com/?inventor=stephane+savanah&oq=stephane+savanah)
+•	[Google patents](https://patents.google.com/?inventor=stephane+savanah&oq=stephane+savanah) Granted patents
 
 💡 Currently working on AI-powered Web3 commercial use cases
